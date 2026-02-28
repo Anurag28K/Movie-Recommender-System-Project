@@ -23,8 +23,7 @@ This is a Content-Based Movie Recommendation System built using Python and Strea
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Movies-Recommender-System.git
-
+git clone https://github.com/anuragram/Movies-Recommender-System.git
 2. Go inside the folder:
    cd Movies-Recommender-System
 
